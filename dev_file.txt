@@ -1,3 +1,6 @@
 This is from dev
 
+<<<<<<< HEAD
 This is one new feature
+=======
+>>>>>>> 11f0a6b (added dev file)
