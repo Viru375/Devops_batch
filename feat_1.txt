@@ -2,4 +2,4 @@ this is feature 1
 
 this is new feature
 
-this is to create conflict
+this is for creating conflict
